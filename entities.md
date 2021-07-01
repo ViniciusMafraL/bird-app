@@ -22,6 +22,4 @@ class Comments {
     categoryId : number;
 
 }
-
-
 ```
